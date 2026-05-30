@@ -19,7 +19,7 @@ Tinkercad provides a simulation environment where this circuit can be virtually 
 
 
 ## Circuit Diagram:
-![WhatsApp Image 2025-11-18 at 14 33 26_e4df82a1](https://github.com/user-attachments/assets/b930f662-0b1b-4c1e-8302-c38e69d8cea9)
+<img width="455" height="416" alt="image" src="https://github.com/user-attachments/assets/7696034e-214e-43d5-a778-4100d3d66fb6" />
 
  
 ## Procedure: 
@@ -84,10 +84,8 @@ void loop() {
 
 ```
 ## Output:
-![WhatsApp Image 2025-11-18 at 14 29 56_6d59ce82](https://github.com/user-attachments/assets/a7f62be4-ec42-4bd4-a005-5c482829b941)
-![WhatsApp Image 2025-11-18 at 14 33 48_45fc8d1d](https://github.com/user-attachments/assets/d59cb464-5c39-4c3c-8951-dbac4fe7de7d)
+<img width="500" height="249" alt="image" src="https://github.com/user-attachments/assets/83785ba0-2730-4bbd-930b-c656dc5f3b4d" />
 
- 
 
 
 ## Result
